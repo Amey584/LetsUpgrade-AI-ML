@@ -6,7 +6,7 @@ PassengerId,Name,Survived
 896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",1
 897,"Svensson, Mr. Johan Cervin",0
 898,"Connolly, Miss. Kate",1
-899,"Caldwell, Mr. Albert Francis",1
+899,"Caldwell, Mr. Albert Francis",0
 900,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",1
 901,"Davies, Mr. John Samuel",0
 902,"Ilieff, Mr. Ylio",0
@@ -21,7 +21,7 @@ PassengerId,Name,Survived
 911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",1
 912,"Rothschild, Mr. Martin",0
 913,"Olsen, Master. Artur Karl",1
-914,"Flegenheim, Mrs. Alfred (Antoinette)",1
+914,"Flegenheim, Mrs. Alfred (Antoinette)",0
 915,"Williams, Mr. Richard Norris II",0
 916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",1
 917,"Robins, Mr. Alexander A",0
@@ -30,13 +30,13 @@ PassengerId,Name,Survived
 920,"Brady, Mr. John Bertram",0
 921,"Samaan, Mr. Elias",0
 922,"Louch, Mr. Charles Alexander",0
-923,"Jefferys, Mr. Clifford Thomas",1
+923,"Jefferys, Mr. Clifford Thomas",0
 924,"Dean, Mrs. Bertram (Eva Georgetta Light)",1
 925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",1
 926,"Mock, Mr. Philipp Edmund",0
 927,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",0
-928,"Roth, Miss. Sarah A",0
-929,"Cacic, Miss. Manda",0
+928,"Roth, Miss. Sarah A",1
+929,"Cacic, Miss. Manda",1
 930,"Sap, Mr. Julius",0
 931,"Hee, Mr. Ling",0
 932,"Karun, Mr. Franz",0
@@ -49,7 +49,7 @@ PassengerId,Name,Survived
 939,"Shaughnessy, Mr. Patrick",0
 940,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",1
 941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",1
-942,"Smith, Mr. Lucien Philip",1
+942,"Smith, Mr. Lucien Philip",0
 943,"Pulbaum, Mr. Franz",0
 944,"Hocking, Miss. Ellen Nellie""""",1
 945,"Fortune, Miss. Ethel Flora",1
@@ -63,7 +63,7 @@ PassengerId,Name,Survived
 953,"McCrae, Mr. Arthur Gordon",0
 954,"Bjorklund, Mr. Ernst Herbert",0
 955,"Bradley, Miss. Bridget Delia",1
-956,"Ryerson, Master. John Borie",1
+956,"Ryerson, Master. John Borie",0
 957,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",1
 958,"Burns, Miss. Mary Delia",1
 959,"Moore, Mr. Clarence Bloomfield",0
@@ -111,7 +111,7 @@ PassengerId,Name,Survived
 1001,"Swane, Mr. George",0
 1002,"Stanton, Mr. Samuel Ward",0
 1003,"Shine, Miss. Ellen Natalia",1
-1004,"Evans, Miss. Edith Corse",1
+1004,"Evans, Miss. Edith Corse",0
 1005,"Buckley, Miss. Katherine",1
 1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",1
 1007,"Chronopoulos, Mr. Demetrios",0
@@ -131,13 +131,13 @@ PassengerId,Name,Survived
 1021,"Petersen, Mr. Marius",0
 1022,"Spinner, Mr. Henry John",0
 1023,"Gracie, Col. Archibald IV",0
-1024,"Lefebre, Mrs. Frank (Frances)",0
+1024,"Lefebre, Mrs. Frank (Frances)",1
 1025,"Thomas, Mr. Charles P",0
 1026,"Dintcheff, Mr. Valtcho",0
 1027,"Carlsson, Mr. Carl Robert",0
 1028,"Zakarian, Mr. Mapriededer",0
 1029,"Schmidt, Mr. August",0
-1030,"Drapkin, Miss. Jennie",0
+1030,"Drapkin, Miss. Jennie",1
 1031,"Goodwin, Mr. Charles Frederick",0
 1032,"Goodwin, Miss. Jessie Allis",0
 1033,"Daniels, Miss. Sarah",1
@@ -167,16 +167,16 @@ PassengerId,Name,Survived
 1058,"Brandeis, Mr. Emil",0
 1059,"Ford, Mr. Edward Watson",0
 1060,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",1
-1061,"Hellstrom, Miss. Hilda Maria",0
+1061,"Hellstrom, Miss. Hilda Maria",1
 1062,"Lithman, Mr. Simon",0
 1063,"Zakarian, Mr. Ortin",0
 1064,"Dyker, Mr. Adolf Fredrik",0
 1065,"Torfa, Mr. Assad",0
 1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",0
-1067,"Brown, Miss. Edith Eileen",1
-1068,"Sincock, Miss. Maude",1
+1067,"Brown, Miss. Edith Eileen",0
+1068,"Sincock, Miss. Maude",0
 1069,"Stengel, Mr. Charles Emil Henry",0
-1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",1
+1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",0
 1071,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",1
 1072,"McCrie, Mr. James Matthew",0
 1073,"Compton, Mr. Alexander Taylor Jr",0
@@ -186,7 +186,7 @@ PassengerId,Name,Survived
 1077,"Maybery, Mr. Frank Hubert",0
 1078,"Phillips, Miss. Alice Frances Louisa",1
 1079,"Davies, Mr. Joseph",0
-1080,"Sage, Miss. Ada",0
+1080,"Sage, Miss. Ada",1
 1081,"Veal, Mr. James",0
 1082,"Angle, Mr. William A",0
 1083,"Salomon, Mr. Abraham L",0
@@ -194,10 +194,10 @@ PassengerId,Name,Survived
 1085,"Lingane, Mr. John",0
 1086,"Drew, Master. Marshall Brines",0
 1087,"Karlsson, Mr. Julius Konrad Eugen",0
-1088,"Spedden, Master. Robert Douglas",1
+1088,"Spedden, Master. Robert Douglas",0
 1089,"Nilsson, Miss. Berta Olivia",1
 1090,"Baimbrigge, Mr. Charles Robert",0
-1091,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",0
+1091,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",1
 1092,"Murphy, Miss. Nora",1
 1093,"Danbom, Master. Gilbert Sigvard Emanuel",1
 1094,"Astor, Col. John Jacob",0
@@ -223,7 +223,7 @@ PassengerId,Name,Survived
 1114,"Cook, Mrs. (Selena Rogers)",1
 1115,"Karlsson, Mr. Einar Gervasius",0
 1116,"Candee, Mrs. Edward (Helen Churchill Hungerford)",1
-1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",0
+1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",1
 1118,"Asplund, Mr. Johan Charles",0
 1119,"McNeill, Miss. Bridget",1
 1120,"Everett, Mr. Thomas James",0
@@ -247,10 +247,10 @@ PassengerId,Name,Survived
 1138,"Karnes, Mrs. J Frank (Claire Bennett)",1
 1139,"Drew, Mr. James Vivian",0
 1140,"Hold, Mrs. Stephen (Annie Margaret Hill)",1
-1141,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",0
+1141,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",1
 1142,"West, Miss. Barbara J",1
 1143,"Abrahamsson, Mr. Abraham August Johannes",0
-1144,"Clark, Mr. Walter Miller",1
+1144,"Clark, Mr. Walter Miller",0
 1145,"Salander, Mr. Karl Johan",0
 1146,"Wenzel, Mr. Linhart",0
 1147,"MacKay, Mr. George William",0
@@ -266,7 +266,7 @@ PassengerId,Name,Survived
 1157,"Lyntakoff, Mr. Stanko",0
 1158,"Chisholm, Mr. Roderick Robert Crispin",0
 1159,"Warren, Mr. Charles William",0
-1160,"Howard, Miss. May Elizabeth",0
+1160,"Howard, Miss. May Elizabeth",1
 1161,"Pokrnic, Mr. Mate",0
 1162,"McCaffry, Mr. Thomas Francis",0
 1163,"Fox, Mr. Patrick",0
@@ -278,23 +278,23 @@ PassengerId,Name,Survived
 1169,"Faunthorpe, Mr. Harry",0
 1170,"Ware, Mr. John James",0
 1171,"Oxenham, Mr. Percy Thomas",0
-1172,"Oreskovic, Miss. Jelka",0
+1172,"Oreskovic, Miss. Jelka",1
 1173,"Peacock, Master. Alfred Edward",1
 1174,"Fleming, Miss. Honora",1
-1175,"Touma, Miss. Maria Youssef",0
+1175,"Touma, Miss. Maria Youssef",1
 1176,"Rosblom, Miss. Salli Helena",1
 1177,"Dennis, Mr. William",0
 1178,"Franklin, Mr. Charles (Charles Fardon)",0
-1179,"Snyder, Mr. John Pillsbury",1
+1179,"Snyder, Mr. John Pillsbury",0
 1180,"Mardirosian, Mr. Sarkis",0
 1181,"Ford, Mr. Arthur",0
 1182,"Rheims, Mr. George Alexander Lucien",0
-1183,"Daly, Miss. Margaret Marcella Maggie""""",0
+1183,"Daly, Miss. Margaret Marcella Maggie""""",1
 1184,"Nasr, Mr. Mustafa",0
 1185,"Dodge, Dr. Washington",0
 1186,"Wittevrongel, Mr. Camille",0
 1187,"Angheloff, Mr. Minko",0
-1188,"Laroche, Miss. Louise",1
+1188,"Laroche, Miss. Louise",0
 1189,"Samaan, Mr. Hanna",0
 1190,"Loring, Mr. Joseph Holland",0
 1191,"Johansson, Mr. Nils",0
@@ -324,11 +324,11 @@ PassengerId,Name,Survived
 1215,"Rowe, Mr. Alfred G",0
 1216,"Kreuchen, Miss. Emilie",1
 1217,"Assam, Mr. Ali",0
-1218,"Becker, Miss. Ruth Elizabeth",1
+1218,"Becker, Miss. Ruth Elizabeth",0
 1219,"Rosenshine, Mr. George (Mr George Thorne"")""",0
 1220,"Clarke, Mr. Charles Valentine",0
 1221,"Enander, Mr. Ingvar",0
-1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",1
+1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",0
 1223,"Dulles, Mr. William Crothers",0
 1224,"Thomas, Mr. Tannous",0
 1225,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",1
@@ -336,7 +336,7 @@ PassengerId,Name,Survived
 1227,"Maguire, Mr. John Edward",0
 1228,"de Brito, Mr. Jose Joaquim",0
 1229,"Elias, Mr. Joseph",0
-1230,"Denbury, Mr. Herbert",1
+1230,"Denbury, Mr. Herbert",0
 1231,"Betros, Master. Seman",0
 1232,"Fillbrook, Mr. Joseph Charles",0
 1233,"Lundstrom, Mr. Thure Edvin",0
@@ -359,13 +359,13 @@ PassengerId,Name,Survived
 1250,"O'Keefe, Mr. Patrick",0
 1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",1
 1252,"Sage, Master. William Henry",0
-1253,"Mallet, Mrs. Albert (Antoinette Magnin)",1
+1253,"Mallet, Mrs. Albert (Antoinette Magnin)",0
 1254,"Ware, Mrs. John James (Florence Louise Long)",1
 1255,"Strilic, Mr. Ivan",0
 1256,"Harder, Mrs. George Achilles (Dorothy Annan)",1
-1257,"Sage, Mrs. John (Annie Bullen)",0
+1257,"Sage, Mrs. John (Annie Bullen)",1
 1258,"Caram, Mr. Joseph",0
-1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",1
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",0
 1260,"Gibson, Mrs. Leonard (Pauline C Boeson)",1
 1261,"Pallas y Castello, Mr. Emilio",0
 1262,"Giles, Mr. Edgar",0
@@ -374,13 +374,13 @@ PassengerId,Name,Survived
 1265,"Harbeck, Mr. William H",0
 1266,"Dodge, Mrs. Washington (Ruth Vidaver)",1
 1267,"Bowen, Miss. Grace Scott",1
-1268,"Kink, Miss. Maria",0
+1268,"Kink, Miss. Maria",1
 1269,"Cotterill, Mr. Henry Harry""""",0
 1270,"Hipkins, Mr. William Edward",0
 1271,"Asplund, Master. Carl Edgar",0
 1272,"O'Connor, Mr. Patrick",0
 1273,"Foley, Mr. Joseph",0
-1274,"Risien, Mrs. Samuel (Emma)",0
+1274,"Risien, Mrs. Samuel (Emma)",1
 1275,"McNamee, Mrs. Neal (Eileen O'Leary)",1
 1276,"Wheeler, Mr. Edwin Frederick""""",0
 1277,"Herman, Miss. Kate",1
@@ -388,9 +388,9 @@ PassengerId,Name,Survived
 1279,"Ashby, Mr. John",0
 1280,"Canavan, Mr. Patrick",0
 1281,"Palsson, Master. Paul Folke",0
-1282,"Payne, Mr. Vivian Ponsonby",1
-1283,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1
-1284,"Abbott, Master. Eugene Joseph",0
+1282,"Payne, Mr. Vivian Ponsonby",0
+1283,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",0
+1284,"Abbott, Master. Eugene Joseph",1
 1285,"Gilbert, Mr. William",0
 1286,"Kink-Heilmann, Mr. Anton",0
 1287,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",1
